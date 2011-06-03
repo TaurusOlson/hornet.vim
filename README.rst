@@ -10,8 +10,7 @@ SCREENSHOT
 ----------
 
 
-.. image:: image/hornet.png
-
+.. image:: https://github.com/TaurusOlson/hornet.vim/raw/master/image/hornet.png
 
 .. _Busybee.vim: http://www.vim.org/scripts/script.php?script_id=2549
 
